@@ -50,7 +50,7 @@ Customer churn is a major challenge for businesses. This project focuses on anal
 
 ## 🖼️ Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
+https://github.com/Iayyappareddy/Chustomer_Churn-project/tree/main/techno_project/images
 
 ---
 
